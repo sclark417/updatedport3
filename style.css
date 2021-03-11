@@ -1,0 +1,12 @@
+body {
+  background-color: cornflowerblue;
+}
+
+h5 {
+  font-style: inherit;
+  font-weight: bolder;
+}
+
+p {
+  font-family: fantasy;
+}
